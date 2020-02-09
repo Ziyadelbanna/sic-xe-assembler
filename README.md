@@ -1,2 +1,4 @@
 # sic-xe-assembler
-SIC/XE Assembler - Systems Programming Semester Project
+Systems Programming Semester Project
+
+2- pass assembler for the SIC/XE machine
